@@ -1,0 +1,8 @@
+{
+  "name": "Remix LUNIQ",
+  "description": "Imported from GitHub: HappyRF/LUNIQ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
